@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/My-portfolio/static/css/main.d1fdaef7.css",
+    "main.js": "/My-portfolio/static/js/main.051ed463.js",
+    "static/media/FoodProject.png": "/My-portfolio/static/media/FoodProject.16dd048ae36047135d3f.png",
+    "static/media/Bachelors.png": "/My-portfolio/static/media/Bachelors.83d3961d711b1e1d170d.png",
+    "static/media/Profile.png": "/My-portfolio/static/media/Profile.0796606e4407df7dc140.png",
+    "static/media/TrafficManagement.png": "/My-portfolio/static/media/TrafficManagement.12359b965366725b59d3.png",
+    "static/media/Profile2.png": "/My-portfolio/static/media/Profile2.b423d58777d341fce8f3.png",
+    "static/media/Leetcode.png": "/My-portfolio/static/media/Leetcode.4a4bcdf0a78422cd1125.png",
+    "static/media/Codechef.png": "/My-portfolio/static/media/Codechef.31f46544ab0c622c22eb.png",
+    "static/media/github.svg": "/My-portfolio/static/media/github.5ea411cf8a8c111bd7c4314b059b0899.svg",
+    "static/media/instagram.svg": "/My-portfolio/static/media/instagram.252faeaaba46ae6f73fae8abf62eb885.svg",
+    "static/media/react.svg": "/My-portfolio/static/media/react.6168f5f54798882a10a6eb26bc50eada.svg",
+    "static/media/design.svg": "/My-portfolio/static/media/design.d49767402315dbd43511d0999313fc81.svg",
+    "static/media/html.svg": "/My-portfolio/static/media/html.f2062308339a3799babd3847f11f9d18.svg",
+    "static/media/linkedin.svg": "/My-portfolio/static/media/linkedin.36771b744e2f8aa6afca66221bfe2e1c.svg",
+    "index.html": "/My-portfolio/index.html",
+    "main.d1fdaef7.css.map": "/My-portfolio/static/css/main.d1fdaef7.css.map",
+    "main.051ed463.js.map": "/My-portfolio/static/js/main.051ed463.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1fdaef7.css",
+    "static/js/main.051ed463.js"
+  ]
+}
